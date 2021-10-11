@@ -1,0 +1,5 @@
+- My name is Cameron Vogt (@cvogt729).
+- I have a bachelor's degree in mathematics with a minor in computer science from the University of Minnesota - Twin Cities.
+- I currently work for [Automatic Controls Equipment Systems, Inc.](https://automaticcontrols.net/) as a Java developer.
+- My work email is cvogt@automaticcontrols.net.
+- My personal email is cvogt729@gmail.com
